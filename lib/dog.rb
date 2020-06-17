@@ -1,4 +1,3 @@
 class Dog
-  def initialize(name)
-  end   
+  attr_accessor 
 end
